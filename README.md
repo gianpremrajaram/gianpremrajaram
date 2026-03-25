@@ -1,6 +1,6 @@
 ### Gian Prem Rajaram
 
-MSc Computer Science at UCL | Ex-Product Manager at Amazon
+MSc Computer Science at UCL | prev. Product Manager at Amazon
 
 Background in political economy; focused on multi-agent systems, mechanism design, and AI governance.
 
